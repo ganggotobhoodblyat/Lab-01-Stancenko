@@ -12,6 +12,6 @@
 - `src/ConsoleApp/` — консольное приложение с решением задачи
 
 ## Порядок запуска
-1. git clone https://github.com/is2211_sad/Lab-01-Stancenko.git  
-2. Открыть Lab-01-Stancenko.sln в Visual Studio  
-3. Запустить (F5)
+1. git clone https://github.com/ganggotobhoodblyat/Lab-01-Stancenko.git  
+3. Открыть Lab-01-Stancenko.sln в Visual Studio  
+4. Запустить (F5)
